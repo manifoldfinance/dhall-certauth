@@ -1,6 +1,9 @@
 # dhall-openssl
 
-OpenSSL configuration is a mess. I compiled the stuff I learned from reading through the man pages, so you don't have to.
+## Overview
+
+Manage OpenSSL via Dhall bindings
+
 
 ## Usage
 
